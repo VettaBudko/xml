@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<root>
+    <car>
+      <manufacturer>Mercedes-Benz</manufacturer>
+      <year>2022</year>
+      <model>Mercedes-AMG G 63</model>
+    </car>
+    <car>
+        <manufacturer>BMW</manufacturer>
+        <year>2023</year>
+        <model>BMW i7 M70 xDrive</model>
+    </car>
+      <car>
+        <manufacturer>Volkswagen</manufacturer>
+        <year>2022</year>
+        <model>Volkswagen Touareg Exclusive</model>
+      </car>
+  </root>
